@@ -3,7 +3,9 @@
 This repository contains the files for the final assignment of the Coursera course Getting and Cleaning Data.
 
 The original data for the assignment can be found here:
+
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 The data set is described below, and the original files are in the UCI-HAR-Dataset Folder. 
 
 In addition to these original files, following files are included:
