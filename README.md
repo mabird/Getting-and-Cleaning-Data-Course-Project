@@ -2,13 +2,13 @@
 
 This repository contains the files for the final assignment of the Coursera course Getting and Cleaning Data.
 
-The original data for the assignment can be found here:
+The original data for the assignment (described below) can be found here:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The data set is described below
 
-In addition to these original files, following files are included:
+
+The repository includes the following files:
 ======================================
 
 - full_data_means_sd.txt: contains the means and standard deviation values of the original values from the above data set
@@ -16,6 +16,7 @@ In addition to these original files, following files are included:
 - run_analyis.R: R code used to tidy data and save the tidy data sets
 - CodeBook.md: description of variables and analysis steps
 - README.txt: description of the data and the files in the repo
+
 
 
 Description of the original data set:
