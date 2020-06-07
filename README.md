@@ -6,7 +6,7 @@ The original data for the assignment can be found here:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The data set is described below, and the original files are in the UCI-HAR-Dataset Folder. 
+The data set is described below
 
 In addition to these original files, following files are included:
 ======================================
