@@ -1,7 +1,7 @@
 rm(list = ls())
 library(tidyverse)
 
-# Read in data --------
+# Read in data --------------
 test_set <- read.table("test/X_test.txt")
 test_labels <- read.table("test/y_test.txt")
 subject_test <- read.table("test/subject_test.txt")
