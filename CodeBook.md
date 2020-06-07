@@ -29,7 +29,7 @@ activity_labels <- read.table("activity_labels.txt")
 ```
 
 
-## Data cleanup
+## Data cleanup (see run_analysis.R for details and code)
 1. Name the columns according to the feature file
 1. Select only columns with mean and standard deviation values
 1. Add the columns with the subject number and the activity type and shift them to the beginning of the data frame
